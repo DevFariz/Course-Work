@@ -186,3 +186,50 @@ body{
 }
 
 /* about styles end */
+
+
+/* format styles start */
+.format {
+    margin-bottom: 217px;
+}
+
+.format__title {
+    margin-bottom: 112px;
+}
+.format-container {
+    display: flex;
+}
+.format-item {
+    margin-right: 123px;
+}
+
+.format-item__title {
+    color: #1E4681;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 130%;
+    margin-bottom: 5px;
+}
+.format-item__text {
+    font-size: 18px;
+    line-height: 130%;
+
+}
+.format-item_1 {
+    width: 223px;
+}
+.format-item_2 {
+    width: 263px;
+}
+.format-item_3 {
+    width: 240px;
+}
+/* format styles end */
+
+/* what styles start */
+
+
+
+
+/* what styles end */
+
