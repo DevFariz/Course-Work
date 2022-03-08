@@ -175,6 +175,10 @@
     .about-item__text{
         font-size: 11px;
     }
+    .format {
+        margin-bottom: 122px;
+    }
+
     .format__title {
         margin-bottom: 66px;
     }
@@ -191,6 +195,17 @@
     .format-item__text {
         font-size: 11px;
     }
+    .what {
+       margin-bottom: 124px; 
+    }
+    .what__title {
+        margin-bottom: 25px;
+    }
+    .what-list {
+        max-width: 380px;
+    }
 
-
+    .what-list__item {
+        font-size: 14px;
+    }
 }
