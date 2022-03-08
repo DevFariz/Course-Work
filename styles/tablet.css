@@ -75,9 +75,17 @@
 } */
 
 @media (max-width: 840px){
+
+    /* general styles start */
+
     .section-title{
         font-size: 32px;
-        }
+    }
+
+    /* general styles end */
+
+    /* header styles start */
+
     .header{
         margin-bottom: 37px;
     }
@@ -85,6 +93,11 @@
     .logo__img{
         width: 73px;
     }
+
+    /* header styles end */
+
+    /* intro styles start */
+
     .intro{
         margin-bottom: 100px;
     }
@@ -144,6 +157,11 @@
         font-size: 12px;
         line-height: 130%;
     }
+
+    /* intro styles end */
+
+    /* about styles start */
+
     .about__title{
         margin-bottom: 22px;
     }
@@ -182,6 +200,10 @@
         font-size: 11px;
     }
 
+    /* about styles end */
+
+    /* format styles start */
+
     .format {
         margin-bottom: 122px;
     }
@@ -207,6 +229,10 @@
         font-size: 11px;
     }
 
+    /* format styles end */
+
+    /* what styles start */
+
     .what {
        margin-bottom: 124px; 
     }
@@ -222,6 +248,10 @@
     .what-list__item {
         font-size: 14px;
     }
+
+    /* what styles end */
+
+    /* program styles start */
 
     .container-bg{
         padding: 0 50px;
@@ -258,4 +288,97 @@
     .program-item__text{
         font-size: 14px;
     }
+
+    /* program styles end */
+
+    /* achievement styles start */
+
+    .achievement{
+        padding: 53px 0 64px;
+    }
+
+    .achievement-title{
+        margin-bottom: 33px;
+    }
+
+    .achievement-card{
+        max-width: 458px;
+        box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        margin-left: 2px;
+    }
+
+    .achievement-card__text{
+        font-size: 12px;
+        padding: 23px 26.3px 13px;
+    }
+
+    .achievement-card-profil{
+        padding-bottom: 17px;
+    }
+
+    .achievement-card__photo{
+        width: 110px;
+        margin: 0 17px 0 15px;
+    }
+
+    .achievement-card__name{
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+
+    .achievement-card__fb{
+        width: 18.5px;
+    }
+
+    /* achievement styles end */
+
+    /* footer styles start */
+
+    .footer{
+        padding: 29px 0 25px;
+    }
+
+    .footer-left__logo{
+        width: 66.5px;
+        margin-bottom: 17px;
+    }
+    
+    .footer-left-social img{
+        width: 19px;
+        margin-right: 12px;
+    }
+    
+    .footer-left__company{
+        font-size: 10px;
+        margin-top: 85px;
+    }
+    
+    .footer-right{
+        margin: 2px 34px 0 0;
+    }
+    
+    .footer-right__tel{
+        font-size: 14px;
+        margin-bottom: 9px;
+    }
+    
+    .footer-right__tel::before{
+        right: 13px;
+        width: 15.64px;
+        height: 15.64px;
+    }
+    
+    .footer-right__mail{
+        font-size: 14px;
+    }
+    
+    .footer-right__mail::before{
+        right: 13px;
+        width: 15.64px;
+        height: 10.43px;
+    }
+    
+    /* footer styles end */
+
 }
