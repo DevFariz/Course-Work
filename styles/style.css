@@ -331,6 +331,9 @@ body{
 }
 
 .footer-right__tel{
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
     font-size: 25px;
     line-height: 101.38%;
     margin-bottom: 15px;
@@ -348,6 +351,9 @@ body{
 }
 
 .footer-right__mail{
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
     font-size: 25px;
     line-height: 101.38%;
 }
