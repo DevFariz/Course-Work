@@ -130,6 +130,7 @@ body{
 /* intro styles end */
 
 /* about styles start*/
+
 .about{
     margin-bottom: 162px;
 }
@@ -186,3 +187,116 @@ body{
 }
 
 /* about styles end */
+
+
+/* format styles start */
+
+.format {
+    margin-bottom: 217px;
+}
+
+.format__title {
+    margin-bottom: 112px;
+}
+
+.format-container {
+    display: flex;
+}
+
+.format-item {
+    margin-right: 123px;
+}
+
+.format-item__title {
+    color: #1E4681;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 130%;
+    margin-bottom: 5px;
+}
+.format-item__text {
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.format-item_1 {
+    width: 223px;
+}
+
+.format-item_2 {
+    width: 263px;
+}
+
+.format-item_3 {
+    width: 240px;
+}
+
+/* format styles end */
+
+
+/* what styles start */
+
+.what {
+    margin-bottom: 218px;
+}
+
+.what__title {
+    margin-bottom: 40px;
+}
+
+.what-list {
+    list-style: disc;
+    max-width: 662px;
+    margin-left: 20px;
+}
+
+.what-list__item {
+    font-size: 24px;
+    line-height: 150%;
+}
+
+/* what styles end */
+
+/* achievement styles start */
+
+.achievement{
+    background-color: #EFEFEF;
+    padding: 91px 0 111px;
+}
+
+.achievement__title{
+    margin-bottom: 59px;
+}
+
+.achievement-card{
+    max-width: 791px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.achievement-card__text{
+    font-size: 20px;
+    line-height: 150%;
+    padding: 40px 45px 28px;
+}
+
+.achievement-card-profil{
+    display: flex;
+    align-items: center;
+    padding-bottom: 29px;
+}
+
+.achievement-card-profil__photo{
+    display: block;
+    margin: 0 30px 0 26px;
+}
+
+.achievement-card__name{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 101.38%;
+    margin-bottom: 20px;
+}
+
+/* achievement styles end */
