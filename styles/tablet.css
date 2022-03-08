@@ -175,5 +175,22 @@
     .about-item__text{
         font-size: 11px;
     }
+    .format__title {
+        margin-bottom: 66px;
+    }
+    .format-item {
+        width: 142px;
+        margin-right: 58px;
+    }
+    .format-item_2 {
+        width: 168px;
+    }
+    .format-item__title {
+        font-size: 15px;
+    }
+    .format-item__text {
+        font-size: 11px;
+    }
+
 
 }
