@@ -353,6 +353,48 @@ body{
 
 /* achievement styles end */
 
+/* start styles start */
+.start{
+    padding:179px 0 185px;
+    background-color:  #9DC9C8;
+}
+
+.start__title{
+    margin-bottom: 54px;
+}
+
+.text1{
+    font-size: 25px;
+    line-height: 101.38%;
+}
+
+.text2{
+    font-size: 80px;
+    line-height: 101.38%;
+    margin-bottom: 60px;
+}
+
+.start-wrapper{
+    display:flex;
+}
+
+.start-item{
+    max-width:294px;
+    margin-right: 70px;
+}
+
+.start-item__title{
+    font-size: 25px;
+    line-height: 101.38%;
+    margin-bottom:9px;
+}
+
+.start-item__text{
+    font-size: 18px;
+    line-height: 101.38%;
+}
+/* start styles end */
+
 /* footer styles start */
 
 .footer{
