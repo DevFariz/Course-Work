@@ -352,3 +352,73 @@ body{
 }
 
 /* achievement styles end */
+
+/* footer styles start */
+
+.footer{
+    background-color: #000;
+    padding: 50px 0 42px 0;
+    color: #FFF;
+}
+
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-left__logo{
+    margin-bottom: 30px;
+}
+
+.footer-left-social img{
+    margin-right: 22px;
+}
+
+.footer-left__company{
+    margin-top: 146px;
+}
+
+.footer-right{
+    margin: 10px 100px 0 0;
+}
+
+.footer-right__tel{
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 101.38%;
+    margin-bottom: 15px;
+}
+
+.footer-right__tel::before{
+    content: ' ';
+    background: url(../images/phone.png);
+    background-size: cover;
+    display: inline-block;
+    position: relative;
+    right: 22px;
+    width: 27px;
+    height: 27px;
+}
+
+.footer-right__mail{
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 101.38%;
+}
+
+.footer-right__mail::before{
+    content: ' ';
+    background: url(../images/mail.png);
+    background-size: cover;
+    display: inline-block;
+    position: relative;
+    right: 22px;
+    height: 18px;
+    width: 27px;
+}
+
+/* footer styles end */
