@@ -113,7 +113,7 @@ body{
     background: #1E4681;
     border-radius: 5px;
     color: #FFFFFF;
-    margin-left: 28%;
+    margin-left: 28.5%;
 }
 .intro-bottom__text {
     font-family: 'Roboto Slab', serif;
@@ -464,3 +464,6 @@ body{
 }
 
 /* footer styles end */
+
+
+/* resposive start */
