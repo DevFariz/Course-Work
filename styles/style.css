@@ -257,6 +257,58 @@ body{
 
 /* what styles end */
 
+/* program styles start */
+
+.program{
+    margin-bottom: 120px;
+}
+
+.container-bg{
+    max-width: 1270px;
+    margin: 0 auto;
+}
+
+.program__title{
+    margin-bottom: 120px;
+}
+
+.program-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 38px;
+}
+.program-item {
+    max-width: 100%;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+.program__img {
+    width: 100%;
+    height: auto;
+}
+
+.program-content{
+    padding: 11px 15px 23px 19px;
+}
+
+.program-item__title {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    margin-bottom: 32px;
+}
+
+.program-item__text{
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.program-item:last-child .program-item__title {
+    margin-bottom: 0;
+}
+
+/* program styles end */
+
 /* achievement styles start */
 
 .achievement{
