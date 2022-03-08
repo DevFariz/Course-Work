@@ -241,6 +241,10 @@
         box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
     }
 
+    .program-content{
+        padding: 6px 8px 13px 11px;
+    }
+
     .program-item:last-child .program-item__text {
         line-height: 97%;
         margin-top: 3px;
