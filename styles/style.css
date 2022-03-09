@@ -276,7 +276,7 @@ body{
 }
 
 .program__title{
-    margin-bottom: 120px;
+    margin-bottom: 133px;
 }
 
 .program-items {
@@ -324,7 +324,7 @@ body{
 }
 
 .achievement__title{
-    margin-bottom: 59px;
+    margin-bottom: 72px;
 }
 
 .achievement-card{
@@ -338,7 +338,7 @@ body{
 .achievement-card__text{
     font-size: 20px;
     line-height: 150%;
-    padding: 40px 45px 28px;
+    padding: 41px 45px 28px;
 }
 
 .achievement-card-profil{
@@ -353,10 +353,11 @@ body{
 }
 
 .achievement-card__name{
+    font-family: 'Roboto Slab', serif; 
     font-weight: bold;
     font-size: 30px;
     line-height: 101.38%;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 /* achievement styles end */
