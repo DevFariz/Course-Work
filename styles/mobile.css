@@ -190,4 +190,50 @@
      }
  
      /* what styles end */
+
+     /* program styles start */
+
+    .container-bg{
+        padding: 0 32px;
+    }
+
+    .program{
+        margin-bottom: 47px;
+    }
+
+    .program__title{
+        margin-bottom: 47px;
+    }
+
+    .program-items{
+        gap: 0;
+    }
+
+    .program-item{
+        max-width: 185px;
+        border-radius: 14px;
+        box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+        grid-column: span 3;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+
+    .program-content{
+        padding: 7px 13px 11px 9px;
+    }
+
+    .program-item:last-child .program-item__text {
+        margin-top: 0;
+    }
+
+    .program-item__title{
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .program-item__text{
+        font-size: 12px;
+    }
+
+    /* program styles end */
 }
