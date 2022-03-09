@@ -311,5 +311,57 @@
     }
     
     /* start styles end */
+
+    /* footer styles start */
+
+    .footer{
+        padding: 23px 0 18px;
+    }
+
+    .footer-wrapper {
+        flex-direction: column;
+    }
+
+    .footer-left__logo{
+        width: 53.5px;
+        margin-bottom: 14px;
+    }
+    
+    .footer-left-social img{
+        width: 15px;
+        margin-right: 9.5px;
+    }
+    
+    .footer-left__company{
+        font-size: 10px;
+        margin: 0;
+    }
+    
+    .footer-right{
+        margin: 47.5px 10px 53px;
+    }
+    
+    .footer-right__tel{
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    
+    .footer-right__tel::before{
+        right: 10px;
+        width: 12.58px;
+        height: 12.58px;
+    }
+    
+    .footer-right__mail{
+        font-size: 12px;
+    }
+    
+    .footer-right__mail::before{
+        right: 10px;
+        width: 12.58px;
+        height: 8.39px;
+    }
+    
+    /* footer styles end */
     
 }
