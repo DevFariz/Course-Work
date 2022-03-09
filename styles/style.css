@@ -364,12 +364,12 @@ body{
 
 /* start styles start */
 .start{
-    padding:179px 0 185px;
+    padding:179px 0 200px;
     background-color:  #9DC9C8;
 }
 
 .start__title{
-    margin-bottom: 54px;
+    margin-bottom: 65px;
 }
 
 .text1{
@@ -380,7 +380,7 @@ body{
 .text2{
     font-size: 80px;
     line-height: 101.38%;
-    margin-bottom: 60px;
+    margin-bottom: 78px;
 }
 
 .start-wrapper{
@@ -395,7 +395,7 @@ body{
 .start-item__title{
     font-size: 25px;
     line-height: 101.38%;
-    margin-bottom:9px;
+    margin-bottom: 16px;
 }
 
 .start-item__text{
