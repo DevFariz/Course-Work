@@ -83,4 +83,62 @@
 
     /* intro styles start */
 
+    /* about styles start */
+    .about{
+        margin-bottom: 67px;
+    }
+
+    .about__title{
+        margin-bottom: 17px;
+    }
+
+    .about-top{
+        flex-direction: column;
+        margin-bottom: 45px;
+    }
+
+    .about-top__text{
+        font-size: 12px;
+        margin-bottom: 11px;
+    }
+
+    .about-img{
+        width: 170px;
+    }
+
+    .about-top__left{
+        max-width: 100%;
+    }
+
+    .about-bottom__img{
+       display: none;
+    }
+
+    .about-bottom__left{
+        margin-right: 0;
+    }
+
+    .about-items{
+        flex-wrap: wrap;
+    }
+
+    .about-item{
+        width:87px;
+        margin-right: 34px;
+        margin-bottom: 27px;
+    }
+
+    .about-item:last-child{
+        margin-bottom: 0;
+    }
+
+    .about-item__title{
+        font-size: 12px;
+    }
+
+    .about-item__text{
+        font-size: 10px;
+    }
+
+    /* about styles end */
 }

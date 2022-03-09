@@ -161,9 +161,16 @@
     /* intro styles end */
 
     /* about styles start */
+    .about{
+        margin-bottom: 94px;
+    }
 
     .about__title{
         margin-bottom: 22px;
+    }
+
+    .about-top{
+        margin-bottom: 40px;
     }
 
     .about-top__text{
