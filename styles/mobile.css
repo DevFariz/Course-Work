@@ -267,12 +267,12 @@
     .achievement-card__photo{
         width: 84px;
         height: 80px;
-        margin: 0 14px 0 21px;
+        margin: 0 14px 0 10px;
     }
 
     .achievement-card__name{
         font-size: 14px;
-        margin-bottom: 14px;
+        margin: 0 20px 14px 0;
     }
 
     .achievement-card__fb{
