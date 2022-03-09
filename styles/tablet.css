@@ -333,6 +333,35 @@
 
     /* achievement styles end */
 
+    /* start styles start */
+    .start{
+        padding:103px 0 115px;
+    }
+    .start__title{
+        margin-bottom: 31px;
+    }
+    .text1{
+        font-size: 14px;
+    }
+    .text2{
+        font-size:46px;
+        margin-bottom: 36px;
+    }
+    .start-item{
+        max-width:165px;
+        margin-right: 45px;
+    }
+    .start-item__title{
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .start-item__text{
+        font-size: 10px;
+    }
+
+    
+    /* start styles end */
+
     /* footer styles start */
 
     .footer{
