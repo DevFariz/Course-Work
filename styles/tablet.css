@@ -1,9 +1,9 @@
- @media (max-width: 1280px){
+  @media (max-width: 1280px){
     
     .container{
         padding: 0 70px;
     }
-/*
+
     .header{
         padding: 22px 0;
         margin-bottom: 37px;
@@ -35,10 +35,9 @@
 
     .intro-container__img{
         width: 220px;
-    } */
+    }
 } 
 
-/*
 @media (max-width: 960px){
 
     .intro-top__item{
@@ -72,7 +71,7 @@
         font-size: 12px;
         line-height: 130%;
     }
-} */
+} 
 
 @media (max-width: 840px){
 
@@ -87,7 +86,7 @@
     /* header styles start */
 
     .header{
-        margin-bottom: 37px;
+        margin-bottom: 35px;     
     }
 
     .logo__img{
@@ -120,7 +119,8 @@
     }
 
     .intro-container{
-        margin-bottom: 39px;
+        margin-bottom: 59px;      /*49 to 59*/
+        margin-right: 80px;       /* added */
     }
 
     .intro-container__inner{
@@ -131,6 +131,7 @@
         max-width: 340px;
         font-size: 46px;
         line-height: 101.38%;
+        margin-bottom: 22px;     /* added */
     }
 
     .intro-container__img{
@@ -162,20 +163,20 @@
 
     /* about styles start */
     .about{
-        margin-bottom: 94px;
+        margin-bottom: 94px;    
     }
 
-    .about__title{
-        margin-bottom: 22px;
+    .about__title{          
+        margin-bottom: 30px;        /*22 to 30*/
     }
 
     .about-top{
-        margin-bottom: 40px;
+        margin-bottom: 20px;        /*40 to 20*/
     }
 
     .about-top__text{
         font-size: 14px;
-        margin-bottom: 14px;
+        margin-bottom: 24px;        /*22 to 30*/
     }
 
     .about-img{
@@ -191,7 +192,7 @@
     }
 
     .about-bottom__left{
-        margin-right: 76px;
+        margin-right: 84px;         /*76 to 84*/
     }
 
     .about-item{
@@ -201,6 +202,7 @@
 
     .about-item__title{
         font-size: 15px;
+        margin-bottom: 5px;       /* added */
     }
 
     .about-item__text{
@@ -216,7 +218,7 @@
     }
 
     .format__title {
-        margin-bottom: 66px;
+        margin-bottom: 74px;         /* 66 to 74 */
     }
 
     .format-item {
@@ -245,12 +247,12 @@
     }
 
     .what__title {
-        margin-bottom: 25px;
+        margin-bottom: 35px;     /* 25 to 35*/   
     }
 
     .what-list {
         max-width: 380px;
-        margin-left: 17px;
+        margin-left: 13px;      /* 17 to 13*/
     }
 
     .what-list__item {
@@ -266,15 +268,15 @@
     }
 
     .program{
-        margin-bottom: 52px;
+        margin-bottom: 52px;  
     }
 
     .program__title{
-        margin-bottom: 55px;
+        margin-bottom: 75px;        /* 55 to 75*/
     }
 
     .program-item{
-        max-width: 231px;
+        max-width: 231px;      
         border-radius: 17px;
         box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
     }
@@ -306,7 +308,7 @@
     }
 
     .achievement__title{
-        margin-bottom: 33px;
+        margin-bottom: 39px;        /*33 to 39*/
     }
 
     .achievement-card{
@@ -318,7 +320,7 @@
 
     .achievement-card__text{
         font-size: 12px;
-        padding: 23px 26.3px 13px;
+        padding: 27px 26.3px 13px;        /*top 23 to 27*/
     }
 
     .achievement-card-profil{
@@ -346,22 +348,22 @@
         padding:103px 0 115px;
     }
     .start__title{
-        margin-bottom: 31px;
+        margin-bottom: 36px;        /*31 to 36*/
     }
     .text1{
         font-size: 14px;
     }
     .text2{
         font-size:46px;
-        margin-bottom: 36px;
+        margin-bottom: 44px;        /*36 to 44*/
     }
     .start-item{
         max-width:165px;
-        margin-right: 45px;
+        margin-right: 45px;         
     }
     .start-item__title{
         font-size: 14px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;         /*5 to 10*/
     }
     .start-item__text{
         font-size: 10px;
