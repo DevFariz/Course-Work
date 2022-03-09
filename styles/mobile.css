@@ -280,4 +280,36 @@
     }
 
     /* achievement styles end */
+
+     /* start styles start */
+     .start{
+        padding:62px 0 70px;
+    }
+    .start__title{
+        margin-bottom: 27px;
+        max-width: 212px;
+    }
+    .text1{
+        font-size: 12px;
+    }
+    .text2{
+        font-size: 37px;
+        margin-bottom: 30px;
+    }
+    .start-item{
+        max-width:140px;
+        margin-right: 30px;
+    }
+
+    .start-item:last-child{
+        margin-right: 0;
+    }
+
+    .start-item__title{
+        font-size: 12px;
+        margin-bottom: 4px;
+    }
+    
+    /* start styles end */
+    
 }
