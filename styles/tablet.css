@@ -250,6 +250,7 @@
 
     .what-list {
         max-width: 380px;
+        margin-left: 17px;
     }
 
     .what-list__item {
