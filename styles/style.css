@@ -33,7 +33,7 @@ body{
 
 .header{
     padding: 21px 0;
-    margin-bottom: 75px;
+    margin-bottom: 78px;
 }   
 
 /* header styles end */
@@ -45,14 +45,16 @@ body{
 }
 
 .intro-top {
-    margin-bottom: 30px;
+    margin-bottom: 39px;
 }
+
 .intro-top__list {
     display: flex;
 }
+
 .intro-top__item {
     position: relative;
-    margin-right: 30px;
+    margin-right: 40px;
     padding-left: 30px;  
     font-size: 20px;
     line-height: 115%;
@@ -81,7 +83,7 @@ body{
 
 .intro-container{
     display: flex;
-    margin-bottom: 68px;
+    margin-bottom: 67px;
 }
 
 .intro-container__inner{
@@ -94,7 +96,7 @@ body{
     font-weight: bold;
     font-size: 80px;
     line-height: 101.38%;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
 }
 
 .intro-container__text{
@@ -104,16 +106,16 @@ body{
 }
 
 .intro-container__img{
-    margin-top: -30px;
+    margin-top: -24px;
 }
 
 .intro-bottom {
-    max-width: 484px;
-    padding: 19px 27px 15px 27px;
+    max-width: 486px;
+    padding: 17px 20px 18px 27px;
     background: #1E4681;
     border-radius: 5px;
     color: #FFFFFF;
-    margin-left: 28.5%;
+    margin-left: 24%;
 }
 .intro-bottom__text {
     font-family: 'Roboto Slab', serif;
