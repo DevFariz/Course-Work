@@ -141,4 +141,37 @@
     }
 
     /* about styles end */
+
+       /* format styles start */
+
+    .format {
+        margin-bottom: 75px;
+    }
+
+    .format__title {
+        margin-bottom: 27px;
+    }
+    .format-container {
+        flex-direction: column;
+    }
+    .format-item {
+        max-width: 171px;
+        margin-bottom: 30px;
+    }
+    .format-item_2 {
+        max-width: 165px;
+    }
+    .format-item_3 {
+        max-width: 138px;
+        margin-bottom: 0;
+    }
+    .format-item__title {
+        font-size: 12px;
+    }
+
+    .format-item__text {
+        font-size: 10px;
+    }
+
+    /* format styles end */
 }
