@@ -3,7 +3,7 @@
     .container{
         padding: 0 70px;
     }
-/*
+
     .header{
         padding: 22px 0;
         margin-bottom: 37px;
@@ -35,44 +35,8 @@
 
     .intro-container__img{
         width: 220px;
-    } */
+    } 
 } 
-
-/*
-@media (max-width: 960px){
-
-    .intro-top__item{
-        font-size: 12px;
-        line-height: 115%;
-        padding-left: 20px;
-    }
-
-    .intro-top__item::before{
-        width: 13px;
-        height: 13px;
-        top: -3px;
-        background-size: cover;
-    }
-
-    .intro-container{
-        margin-bottom: 39px;
-    }
-
-    .intro-bottom {
-        max-width: 280px;
-        padding: 11px 14px 14px;
-    }
-
-    .intro-bottom__text{    
-        font-size: 11px;
-        line-height: 130%;
-    }
-
-    .intro-bottom__author{
-        font-size: 12px;
-        line-height: 130%;
-    }
-} */
 
 @media (max-width: 840px){
 
