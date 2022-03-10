@@ -36,6 +36,15 @@
     .intro-container__img{
         width: 220px;
     } 
+
+    .about-top__text{
+        font-size: 18px;
+        margin-right: 40px;
+    }
+
+    .about-img {
+        width: 280px;
+    }
 } 
 
 @media (max-width: 840px){
