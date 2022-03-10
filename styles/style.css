@@ -96,7 +96,7 @@ body{
     font-weight: bold;
     font-size: 80px;
     line-height: 101.38%;
-    margin-bottom: 18px;
+    margin-bottom: 15px;
 }
 
 .intro-container__text{
@@ -276,7 +276,7 @@ body{
 }
 
 .program__title{
-    margin-bottom: 133px;
+    margin-bottom: 135px;
 }
 
 .program-items {
@@ -295,7 +295,7 @@ body{
 }
 
 .program-content{
-    padding: 11px 15px 23px 19px;
+    padding: 11px 15px 23px 22px;
 }
 
 .program-item__title {
