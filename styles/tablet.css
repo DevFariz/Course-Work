@@ -45,6 +45,27 @@
     .about-img {
         width: 280px;
     }
+
+    .about-bottom__left {
+        margin-right: 60px;
+    }
+
+    .about-bottom__img{
+        width: 180px;
+    }
+
+    .about-item{
+        margin-right: 50px;
+    }
+
+    .about-item__title{
+        font-size: 20px;
+    }
+
+    .about-item__text{
+        font-size: 14px;
+    }
+
 } 
 
 @media (max-width: 840px){
