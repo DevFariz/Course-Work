@@ -66,6 +66,29 @@
         font-size: 14px;
     }
 
+    .format{
+        margin-bottom: 130px;
+    }
+
+    .format__title{
+        margin-bottom: 75px;
+    }
+
+    .format-item {
+        margin-right: 65px;
+    }
+
+    .format-item__title{
+        font-size: 20px;
+    }
+
+    .format-item__text{
+        font-size: 14px;
+    }
+
+    .format-item:last-child{
+        margin-right: 0;
+    }
 } 
 
 @media (max-width: 840px){
